@@ -32,17 +32,17 @@ Our main objective is to showcase different SQL techniques, such as subqueries, 
 
 ## Getting Started
 To get started with the Soccer Data Analysis Project, follow these steps:
-1. **Clone the Repository:** Clone this repository to your local machine using `git clone https://github.com/your-username/Soccer-Data-Analysis.git`.
-2. **Setup the Database:** Load the provided soccer database into your PostgreSQL environment.
-3. **Connect to PostgreSQL:** Ensure that you have PostgreSQL installed and running, and update the database connection details in the queries if necessary.
-4. **Explore the Queries:** Dive into the `queries.sql` file to explore the SQL queries used for data analysis.
-5. **Run Queries:** Execute the SQL queries in your PostgreSQL environment to analyze the soccer data and uncover insights.
+1. **Clone the Repository:** Clone this repository to your local machine using `git clone https://github.com/your-username/soccer-data-analysis.git`.
+2. **Open Jupyter Notebook:** Launch the Jupyter Notebook server by running `jupyter notebook` in your terminal.
+3. **Open Notebook:** Open the `notebook.ipynb` Jupyter Notebook.
+4. **Run Cells:** Execute the cells in the notebook to analyze the soccer data and uncover insights.
 
 ## Usage
 To use the Soccer Data Analysis Project, follow these steps:
-1. **Execute Queries:** Open the `queries.sql` file and execute the SQL queries in your PostgreSQL environment.
-2. **Review Results:** Review the results of each query to gain insights into different aspects of soccer data.
+1. **Execute Cells:** Run each cell in the Jupyter Notebook to execute the SQL queries and review the results.
+2. **Review Output:** Review the output of each query to gain insights into different aspects of soccer data.
 3. **Experiment:** Feel free to experiment with the queries, modify them, or create your own variations to explore further.
+
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
